@@ -1,7 +1,0 @@
-Latest version of Ruby. im currently on v3.4.7 
-
-To install Ruby: 
-
-on linux (Arch) "sudo pacman -S ruby" 
-
-(Ubuntu/Debian) "sudo apt install ruby" 
