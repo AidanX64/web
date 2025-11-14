@@ -3,10 +3,18 @@ class Cat
     @name = name 
   end 
 
-  def meow
-    puts "#{@name} says meow!"
+  def meow(volume)
+    if volume > 5
+    puts "#{@name} yells MEOW!"
+    else 
+      puts "#{@name} softly meows."
+    end 
   end 
 end 
 
 pantera = Cat.new("Pantera")
-pantera.meow 
+
+print "How loud should Pantera meow (1-10)? "
+volume = gets.chomp.to_i
+
+pantera.meow(volume)
