@@ -1,0 +1,98 @@
+===================
+Ruby Learning Order
+===================
+
+Foundation (Weeks 1-3)
+
+Basic syntax and data types (strings, numbers, booleans, nil)
+Variables and constants
+Operators (arithmetic, comparison, logical)
+Control flow (if/else, unless, case/when)
+Loops (while, until, for, loop)
+Methods (defining, calling, parameters, return values)
+Arrays and array methods
+Hashes and hash methods
+Ranges
+Symbols vs strings
+
+Intermediate (Weeks 4-6)
+
+Blocks, procs, and lambdas
+Iterators (each, map, select, reduce, etc.)
+String manipulation and interpolation
+Regular expressions
+File I/O
+Exception handling (begin/rescue/ensure)
+Classes and objects
+Instance variables and methods
+Class variables and methods
+Inheritance
+Modules and mixins
+Access control (private, protected, public)
+
+Advanced (Weeks 7-10)
+
+Method visibility and scope
+attr_accessor, attr_reader, attr_writer
+Class inheritance patterns
+Module composition patterns
+Enumerable module deep dive
+Method chaining
+self keyword
+Singleton methods and classes
+Method_missing and metaprogramming basics
+Object introspection
+Reflection and dynamic method definition
+Working with gems and bundler
+
+Expert Ruby (Weeks 11-14)
+
+Advanced metaprogramming (define_method, class_eval, instance_eval)
+Ruby object model deep dive
+Eigenclasses/singleton classes
+Method lookup chain
+Refinements
+Concurrent programming (threads, fibers)
+Memory management concepts
+Performance optimization techniques
+Testing with RSpec or Minitest
+Debugging techniques
+Writing gems
+
+Rails Preparation (Weeks 15-16)
+
+HTTP protocol fundamentals
+REST architecture
+MVC pattern
+Database basics (SQL, relationships)
+JSON and XML handling
+Command line proficiency
+
+Ruby on Rails (Weeks 17+)
+
+Rails application structure
+Routing
+Controllers and actions
+Views and ERB
+Active Record models
+Migrations
+Associations (has_many, belongs_to, etc.)
+Validations
+Callbacks
+Active Record queries
+Forms and form helpers
+Sessions and cookies
+Authentication
+Authorization
+Asset pipeline/Import maps
+Action Mailer
+Active Job
+Action Cable (WebSockets)
+Active Storage
+Testing Rails applications
+APIs with Rails
+Deployment
+Practice building multiple complete Rails applications after covering the basics (items 52-62)
+to solidify your understanding before moving to advanced Rails topics
+
+List made by Claude.ai for only guidance!
