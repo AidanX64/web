@@ -1,4 +1,4 @@
-puts "Bird Game"
+puts "===Bird Game==="
 
 print "Enter a Bird name: "
 
